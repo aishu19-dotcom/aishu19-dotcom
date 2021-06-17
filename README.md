@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a competitive programmer.
 
-![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishu19-dotcom&count_private=true)
+![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishu19-dotcom&show_icons=true&theme=radical)
+
