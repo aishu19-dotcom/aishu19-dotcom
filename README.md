@@ -20,4 +20,4 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aishu19-dotcom)](https://git.io/streak-stats)
 
 ## Let's connect 🤝:
- Links to all my Social Handles: https://linktr.ee/Aishwarya19
+ Links to all my Social Media Handles: https://linktr.ee/Aishwarya19
