@@ -1,12 +1,12 @@
-### Hi there 👋 I am Aishwarya
+ # Hi there 👋 I am Aishwarya
           
-          A Little About Me:
+
 
 - 🔭 I’m currently working on Colour Detection Python Project.
 - 🌱 I’m currently learning Data Structures And Algorithms
 - 👯 I’m looking to collaborate on Web Development projects (Front-end)
 - 👩 I'm the Campus Ambassador of Geeks For Geeks at SRM University Ramapuram
-- 📫 How to reach me: https://www.linkedin.com/in/a-p-aishwarya-lakshmi-7741a3204/
+- 📫 How to reach me: https://linktr.ee/Aishwarya19
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a competitive programmer.
 
@@ -15,12 +15,5 @@
 
 ![](https://komarev.com/ghpvc/?username=aishu19-dotcom&color=orange)
 
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aishu19-dotcom)](https://git.io/streak-stats)
-
-
-
-
-
-
 
