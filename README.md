@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am a competitive programmer.
 
 ![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishu19-dotcom&show_icons=true&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aishu19-dotcom)](https://git.io/streak-stats)
+
 
 
 
