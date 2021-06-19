@@ -8,7 +8,8 @@
 - 👩 I'm the Campus Ambassador of Geeks For Geeks at SRM University Ramapuram
 - 📫 How to reach me: aishucool34@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am a competitive programmer.
+- ⚡ Fun fact: ~Dreamer~
+               ~Living one day at a time~
 
 ## Stats:
 ![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishu19-dotcom&show_icons=true&theme=radical)
