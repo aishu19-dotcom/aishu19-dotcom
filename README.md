@@ -20,5 +20,8 @@
 ## My Streak:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aishu19-dotcom)](https://git.io/streak-stats)
 
+## Most Used Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishu19-dotcom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Let's connect 🤝:
 ### Links to all my Social Media Handles: https://linktr.ee/Aishwarya19
