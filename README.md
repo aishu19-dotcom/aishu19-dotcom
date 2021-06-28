@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Colour Detection Python Project.
 - 🌱 I’m currently learning Data Structures And Algorithms
 - 👯 I’m looking to collaborate on Web Development projects (Front-end)
-- 👩 I'm the Campus Ambassador of Geeks For Geeks at SRM University Ramapuram
+- 👩 I'm am ambitious,but lazy
 - 📫 How to reach me: aishucool34@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ~Dreamer✨
