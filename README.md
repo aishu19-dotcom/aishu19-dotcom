@@ -1,4 +1,4 @@
-[![Watch the video](https://github.com/aishu19-dotcom/aishu19-dotcom/blob/master/Hola%20Amigos!!%20(2).mp4)]     
+[![Watch the video](https://youtu.be/thx80iGUW9A)]     
 ### A Little about Myself:
 
 - 🔭 I’m currently working on Colour Detection Python Project.
