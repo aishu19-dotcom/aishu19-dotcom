@@ -1,4 +1,4 @@
-![Video](https://github.com/aishu19-dotcom/aishu19-dotcom/blob/master/Profile.mp4) 
+https://user-images.githubusercontent.com/77623254/124247936-fc76d180-db3f-11eb-8584-7b3a71f01c40.mp4
 ### A Little about Myself:
 
 - 🔭 I’m currently working on Colour Detection Python Project.
