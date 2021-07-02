@@ -1,6 +1,6 @@
-# Hi there 👋 I am Aishwarya
+![caption](link to image / GIF)
           
- ### A Little about Myself:
+### A Little about Myself:
 
 - 🔭 I’m currently working on Colour Detection Python Project.
 - 🌱 I’m currently learning Data Structures And Algorithms
