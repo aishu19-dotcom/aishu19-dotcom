@@ -20,8 +20,14 @@ https://user-images.githubusercontent.com/77623254/124247936-fc76d180-db3f-11eb-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aishu19-dotcom)](https://git.io/streak-stats)
 
 ## Most Used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishu19-dotcom&layout=compact)](https://github.com/aishu19-dotcom/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishu19-dotcom&theme=tokyonight)
 
 
-## Let's connect 🤝:
-### Links to all my Social Media Handles: https://linktr.ee/Aishwarya19
+## ✉️ Find me on:
+
+
+<p align="center">
+ <a href="https://github.com/aishu19-dotcom/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/a-p-aishwarya-lakshmi-7741a3204/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="aishucool34@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
