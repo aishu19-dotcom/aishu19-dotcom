@@ -20,7 +20,8 @@ https://user-images.githubusercontent.com/77623254/124247936-fc76d180-db3f-11eb-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aishu19-dotcom)](https://git.io/streak-stats)
 
 ## Most Used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishu19-dotcom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishu19-dotcom&layout=compact)](https://github.com/aishu19-dotcom/github-readme-stats)
+
 
 ## Let's connect 🤝:
 ### Links to all my Social Media Handles: https://linktr.ee/Aishwarya19
