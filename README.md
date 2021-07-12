@@ -20,8 +20,7 @@ https://user-images.githubusercontent.com/77623254/124247936-fc76d180-db3f-11eb-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aishu19-dotcom)](https://git.io/streak-stats)
 
 ## Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishu19-dotcom&theme=tokyonight)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishu19-dotcom)](https://github.com/aishu19-dotcom/github-readme-stats)
 
 ## ✉️ Find me on:
 
