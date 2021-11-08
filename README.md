@@ -7,8 +7,7 @@ https://user-images.githubusercontent.com/77623254/124247936-fc76d180-db3f-11eb-
 - 👩 I'm am ambitious, but lazy
 - 📫 How to reach me: aishucool34@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ~Dreamer✨
-               Living one day at a time
+- ⚡ Fun fact: I have a magical hair that glows when I sing :P
 
 ## Stats:
 ![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishu19-dotcom&show_icons=true&theme=radical)
