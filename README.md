@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Stock Market Prediction Using LSTM.
 - 🌱 I’m currently learning DSA and ML.
-- 👯 I’m looking to collaborate on Web Development projects.
+- 👯 I’m looking to collaborate on easy and interesting projects.
 - 📫 How to reach me: aishucool34@gmail.com
 - ✍️Blog: https://medium.com/@aishucool34
 - ⚡ Fun fact: I have a magical hair that glows when I sing :P
