@@ -1,12 +1,10 @@
-https://user-images.githubusercontent.com/77623254/124247936-fc76d180-db3f-11eb-8584-7b3a71f01c40.mp4
 ### A Little about Myself:
 
-- 🔭 I’m currently working on Colour Detection Python Project.
-- 🌱 I’m currently learning Data Structures And Algorithms
-- 👯 I’m looking to collaborate on Web Development projects (Front-end)
-- 👩 I'm am ambitious, but lazy
+- 🔭 I’m currently working on Stock Market Prediction Using LSTM.
+- 🌱 I’m currently learning DSA and ML.
+- 👯 I’m looking to collaborate on Web Development projects.
 - 📫 How to reach me: aishucool34@gmail.com
-- 😄 Pronouns: she/her
+- ✍️Blog: https://medium.com/@aishucool34
 - ⚡ Fun fact: I have a magical hair that glows when I sing :P
 
 ## Stats:
