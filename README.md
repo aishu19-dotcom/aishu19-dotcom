@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning DSA and ML.
 - 👯 I’m looking to collaborate on easy and interesting projects.
 - 📫 How to reach me: aishucool34@gmail.com
-- ✍️Blog: https://medium.com/@aishucool34
+- ✍️Blog: https://medium.com/@InkSlingerr
+
 - ⚡ Fun fact: I have a magical hair that glows when I sing :P
 
 ## Stats:
