@@ -1,4 +1,6 @@
-### A Little about Myself:
+<h1 align="center">Hello  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+
+### About Me: 
 
 - 🔭 I’m currently working on Stock Market Prediction Using LSTM.
 - 🌱 I’m currently learning Data Science Frameworks.
