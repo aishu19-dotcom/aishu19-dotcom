@@ -2,7 +2,7 @@
 
 ### About Me: 
 
-- 🔭 I’m currently working on Stock Market Prediction Using LSTM.
+- 🔭 I’m currently working on Stock Market Prediction Using API.
 - 🌱 I’m currently learning Data Science Frameworks.
 - 👯 I’m looking to collaborate on easy and interesting projects.
 - 📫 How to reach me: https://linktr.ee/Aishh__19
