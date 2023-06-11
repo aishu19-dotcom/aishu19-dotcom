@@ -2,8 +2,8 @@
 
 ### About Me: 
 
-- 🔭 I’m currently working on Stock Market Prediction Using API.
-- 🌱 I’m currently learning Data Science Frameworks.
+- 🔭 I’m currently working on Autism Diagnosis Predictor .
+- 🌱 I’m currently learning about APIs.
 - 👯 I’m looking to collaborate on easy and interesting projects.
 - 📫 How to reach me: https://linktr.ee/Aishh__19
 - ✍️Blog: https://medium.com/@InkSlingerr
